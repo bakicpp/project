@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//Bu örnekte, kullanıcı tarafından girilen bir sayının çift mi yoksa tek mi olduğunu kontrol etmeyi öğreneceksiniz.//
+//Bu Ã¶rnekte, kullanÄ±cÄ± tarafÄ±ndan girilen bir sayÄ±nÄ±n Ã§ift mi yoksa tek mi olduÄŸunu kontrol etmeyi Ã¶ÄŸreneceksiniz.//
 int main()
 {
 
