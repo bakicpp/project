@@ -1,4 +1,4 @@
-//sayının tek ya da çift oldugunu gosteren program//
+//sayÃ½nÃ½n tek ya da Ã§ift oldugunu gosteren program//
 
 #include <stdlib.h>
 #include <stdio.h>
