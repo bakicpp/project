@@ -1,4 +1,4 @@
-//Switch-Case kullanarak seçilen sayının hangi ay olduğunu çıktı olarak gösteren C programını yaz.//
+//Switch-Case kullanarak seÃ§ilen sayÄ±nÄ±n hangi ay olduÄŸunu Ã§Ä±ktÄ± olarak gÃ¶steren C programÄ±nÄ± yaz.//
 
 #include <stdlib.h>
 #include <stdio.h>
