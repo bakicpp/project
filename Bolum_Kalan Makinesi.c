@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//Bu örnekte, bir tamsayı başka bir tam sayıya bölündüğünde bölümü ve kalanı bulmayı öğreneceksiniz.//
+//Bu Ã¶rnekte, bir tamsayÄ± baÅŸka bir tam sayÄ±ya bÃ¶lÃ¼ndÃ¼ÄŸÃ¼nde bÃ¶lÃ¼mÃ¼ ve kalanÄ± bulmayÄ± Ã¶ÄŸreneceksiniz.//
 int main()
 {
 	
