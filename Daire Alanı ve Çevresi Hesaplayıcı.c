@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-//Yarı çapı dışardan girilen bir dairenin çevresini ve alanını bulan c programı.//
+//YarÄ± Ã§apÄ± dÄ±ÅŸardan girilen bir dairenin Ã§evresini ve alanÄ±nÄ± bulan c programÄ±.//
 
 int	main()
 {
