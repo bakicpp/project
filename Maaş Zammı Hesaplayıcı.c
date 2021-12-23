@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Maaşı ve Zam Oranı Verilen İşçinin Yeni Maaşını Bulma//
+//MaaÅŸÄ± ve Zam OranÄ± Verilen Ä°ÅŸÃ§inin Yeni MaaÅŸÄ±nÄ± Bulma//
 
 int main()
 {
