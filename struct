@@ -1,0 +1,44 @@
+#include <stdlib.h>
+#include <stdio.h>
+
+struct Ogrenci
+{
+	int ogr_no;
+	char ogr_adi[20];
+	float ogr_notu;
+
+};
+
+
+//void main()
+//{
+//
+//
+//	struct Ogrenci ogr1, ogr2;
+//	printf("Gir\n");
+//	scanf_s("%d", &ogr1.ogr_no);
+//
+//	printf("%d", ogr1.ogr_no);
+//
+//	printf("gir\n");
+//	scanf_s("%s", ogr1.ogr_adi, sizeof(ogr1.ogr_adi));
+//
+//	printf("%s", ogr1.ogr_adi);
+//		
+//
+//
+//}
+
+//void main()
+//{
+//	struct Ogrenci e[2];
+//	printf("gir\n");
+//	scanf_s("%d", &e[0].ogr_no);
+//
+//	printf("Ogrenci 1 No'su : %d\n", e[0].ogr_no);
+//
+//
+//}
+
+
+
