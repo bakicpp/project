@@ -1,0 +1,49 @@
+struct banka
+{
+	int hesapNumarasi;
+	char isim[30];
+	int bakiye;
+}
+
+musteri[5] = { 1, "Ali", 1000,
+2, "Ayse", 12121,
+3, "Elif", 3232,
+4, "Omer", 2123,
+5, "Ayse", 3232,
+};
+
+void islem(int hesapno, int miktar, int islemkod)
+{
+	
+
+	if (islemkod == 1)
+	{
+		musteri->bakiye = musteri->bakiye + miktar;
+		printf("Guncel bakiye : %d\n", musteri->bakiye);
+	}
+
+	if (islemkod == 0)
+	{
+		if (musteri->bakiye >= miktar)
+		{
+			musteri->bakiye = musteri->bakiye - miktar;
+			printf("Guncel bakiye : %d\n", musteri->bakiye);
+		}
+
+		else
+		{
+			printf("Yetersiz bakiye\n");
+		}
+		
+
+	}
+
+
+}
+
+void main()
+{
+	islem(3, 100, 0);
+
+}
+
